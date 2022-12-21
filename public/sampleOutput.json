@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Analytics Insight"
+            },
+            "author": "Analytics Insight",
+            "title": "Shiba Inu Price Might Increase 5X, but Bitgert has the Potential of 100X - Analytics Insight",
+            "description": "The Shiba Inu and Bitgert performances have been impressive in the past few weeks. Though Shiba Inu has been doing well lately, it has also been one of the fast-plummeting cryptocurrencies of 2022.",
+            "url": "https://www.analyticsinsight.net/shiba-inu-price-might-increase-5x-but-bitgert-has-the-potential-of-100x/",
+            "urlToImage": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2022/04/Bitgert-WEB3-Oracle.jpg",
+            "publishedAt": "2022-04-05T09:50:23Z",
+            "content": "The Shiba Inu and Bitgert performances have been impressive in the past few weeks. In the past 30 days, Coinmarketcap data shows that Shiba Inu increased by 10%, which is one of its best performances… [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shubham Raj",
+            "title": "Adani Power hits 10% upper circuit; here's why - Economic Times",
+            "description": "The stock has seen a massive rally in the last few weeks. Last week it was the top BSE 500, gaining 42 per cent as it concluded its acquisition of Essar Power MP.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-hits-10-upper-circuit-heres-why/articleshow/90661661.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-90661642,width-1070,height-580,imgsize-116600,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2022-04-05T09:20:00Z",
+            "content": "Shares of Adani Power zoomed 10 per cent on Tuesday after reports said 32 lakh shares or 0.2 per cent of the equity exchanged hands in a block deal.\r\nIt was not immediately clear who the buyers or se… [+790 chars]"
+        }
+    ]
+} 
